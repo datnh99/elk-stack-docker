@@ -24,4 +24,4 @@ spec:
             - name: PIPELINE_BATCH_DELAY
               value: "50"
             - name: PIPELINE_MAX_INFLIGHT
-              value: "100"
+              value: "99"
