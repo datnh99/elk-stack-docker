@@ -1,0 +1,2 @@
+- pipeline.id : pCPLog_filebeat
+  path.config : "/usr/share/logstash/pipeline/logstash.conf"

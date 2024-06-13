@@ -1,0 +1,4 @@
+log.level: warn
+log.format: json
+
+#queue.type: persisted

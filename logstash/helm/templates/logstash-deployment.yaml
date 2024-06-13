@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: "{{ .Chart.Name }}-logstash-forwarder"
+spec:
+  selector:
+    matchLabels:
+      app: "{{ .Chart.Name }}-logstash-forwarder"
+  template:
+    metadata:
+      labels:
+        app: "{{ .Chart.Name }}-logstash-forwarder"
+    spec:
+      containers:
+        - name: logstash-forwarder
+          image: "{{ .Values.image.name }}:{{ .Values.image.version }}"
+          env:
+            - name: QUEUE_TYPE
+              value: "persisted"
+            - name: PIPELINE_WORKERS
+              value: "2"
+            - name: PIPELINE_BATCH_SIZE
+              value: "45"
+            - name: PIPELINE_BATCH_DELAY
+              value: "50"
+            - name: PIPELINE_MAX_INFLIGHT
+              value: "100"

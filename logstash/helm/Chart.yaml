@@ -1,0 +1,5 @@
+apiVersion: v2
+name: logstash-dat
+description: A Kubernetes-Helm chart for a logstash instance
+type: application
+version: 0.0.1

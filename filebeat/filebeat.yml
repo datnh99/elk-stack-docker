@@ -1,0 +1,13 @@
+logging.level: warning
+logging.json: true
+logging.metrics.enabled: false
+filebeat.inputs:
+  - type: filestream
+#    id: my-filestream-id
+    enabled: true
+    paths:
+      - /usr/share/filebeat/logs/*.log
+output.logstash:
+  enabled: true
+  hosts:
+    - "172.18.0.3:5044"
