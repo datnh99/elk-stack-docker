@@ -1,4 +1,8 @@
 log.level: warn
 log.format: json
 
-#queue.type: persisted
+queue.type: persisted
+
+#queue.max_events: 3
+queue.max_bytes: 1024mb
+queue.page_capacity: 10kb
