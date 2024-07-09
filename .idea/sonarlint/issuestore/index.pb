@@ -43,3 +43,5 @@ f
 .gitmodules,7\4\7445606fbf8f3683cd42bdc54b05d7a0bc2dfc44
 F
 .github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
+]
+-elk-stack-docker/logstash/config/logstash.yml,3\e\3e952f8d5f1d068654025825ce29ce0d0473e0e1
