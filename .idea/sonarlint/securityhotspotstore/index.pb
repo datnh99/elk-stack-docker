@@ -37,3 +37,7 @@ J
 ,logstash/.idea/sonarlint/issuestore/index.pb,3\9\39cc93fd67b2e8ba77c819cb0dfbfaa2922d79c7
 f
 6logstash/.idea/sonarlint/securityhotspotstore/index.pb,c\2\c2febd0aec2bf58846f113cabac126fcd129a06c
+G
+logstash/config/test.md,5\4\5435f289927b8ef6e95b03c10b6f4e39b3445e1e
+E
+logstash/config/ex.md,2\d\2dce898ce3dc6f89db2c731218cb50eb2a695460
