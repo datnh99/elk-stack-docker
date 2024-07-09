@@ -16,6 +16,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set Git user.email and user.name
+        run: |
+          git config user.email "dat.nguyenhuu@emeal.nttdata.com"
+          git config user.name "datnh-nttdata"
+
       - name: Sync fork
         run: |
           git remote add upstream https://github.com/datnh99/elk-stack-docker
