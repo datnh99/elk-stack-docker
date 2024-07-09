@@ -1,4 +1,4 @@
-FROM docker.elastic.co/beats/filebeat:8.13.4
+FROM docker.elastic.co/beats/filebeat:8.14.2
 USER root
 
 COPY logs/ /usr/share/filebeat/logs/
