@@ -5,7 +5,17 @@ updates:
     schedule:
       interval: weekly
       day: tuesday
-      time: "09:48"
+      time: "09:55"
+      timezone: Asia/Ho_Chi_Minh
+    commit-message:
+      prefix: "build:"
+    open-pull-requests-limit: 1
+  - package-ecosystem: docker
+    directory: filebeat
+    schedule:
+      interval: weekly
+      day: tuesday
+      time: "09:55"
       timezone: Asia/Ho_Chi_Minh
     commit-message:
       prefix: "build:"
