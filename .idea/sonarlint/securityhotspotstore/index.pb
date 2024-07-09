@@ -39,3 +39,7 @@ f
 6logstash/.idea/sonarlint/securityhotspotstore/index.pb,c\2\c2febd0aec2bf58846f113cabac126fcd129a06c
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+;
+.gitmodules,7\4\7445606fbf8f3683cd42bdc54b05d7a0bc2dfc44
+F
+.github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
