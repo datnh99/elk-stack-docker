@@ -45,3 +45,7 @@ F
 .github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
 ]
 -elk-stack-docker/logstash/config/logstash.yml,3\e\3e952f8d5f1d068654025825ce29ce0d0473e0e1
+T
+$elk-stack-docker/filebeat/Dockerfile,9\d\9d3f347541271e20cb4f7c312984a139d3c2192c
+T
+$elk-stack-docker/logstash/Dockerfile,7\3\73f86894b7d4bef8e146b7bb46391876d765b288
