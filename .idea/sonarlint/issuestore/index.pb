@@ -23,9 +23,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-Å
+¬Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
-Å
+¬Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
@@ -37,17 +37,3 @@ J
 ,logstash/.idea/sonarlint/issuestore/index.pb,3\9\39cc93fd67b2e8ba77c819cb0dfbfaa2922d79c7
 f
 6logstash/.idea/sonarlint/securityhotspotstore/index.pb,c\2\c2febd0aec2bf58846f113cabac126fcd129a06c
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-;
-.gitmodules,7\4\7445606fbf8f3683cd42bdc54b05d7a0bc2dfc44
-F
-.github/dependabot.yml,0\9\091aff741808a09242f252264b14f4a9adaa5305
-]
--elk-stack-docker/logstash/config/logstash.yml,3\e\3e952f8d5f1d068654025825ce29ce0d0473e0e1
-T
-$elk-stack-docker/filebeat/Dockerfile,9\d\9d3f347541271e20cb4f7c312984a139d3c2192c
-T
-$elk-stack-docker/logstash/Dockerfile,7\3\73f86894b7d4bef8e146b7bb46391876d765b288
-O
-.github/workflows/sync-fork.yml,3\1\311ee68725a422c856dddb107dbfab3d8615c05d
