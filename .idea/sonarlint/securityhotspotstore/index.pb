@@ -23,9 +23,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-Å
+¬Å
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
-Å
+¬Å
 Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,b\b\bbf202272a96de5cd6b6828ffdc55fb3ce45289c
 w
 G.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0,f\0\f0e0f9cec86fe4b939ae22be5264c758801eb28f
@@ -37,7 +37,3 @@ J
 ,logstash/.idea/sonarlint/issuestore/index.pb,3\9\39cc93fd67b2e8ba77c819cb0dfbfaa2922d79c7
 f
 6logstash/.idea/sonarlint/securityhotspotstore/index.pb,c\2\c2febd0aec2bf58846f113cabac126fcd129a06c
-G
-logstash/config/test.md,5\4\5435f289927b8ef6e95b03c10b6f4e39b3445e1e
-E
-logstash/config/ex.md,2\d\2dce898ce3dc6f89db2c731218cb50eb2a695460
